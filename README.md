@@ -43,10 +43,10 @@
 ---
 
 ## 📬 Get in Touch
-📧 Email: sunryul23@naver.com
-🔗 LinkedIn: https://www.linkedin.com/in/srkwon/
-🌐 Notion: https://bit.ly/srkwon
-💻 GitHub: https://github.com/srkwon
+📧 Email: sunryul23@naver.com  <br>
+🔗 LinkedIn: https://www.linkedin.com/in/srkwon  <br>
+🌐 Notion: https://bit.ly/srkwon  <br>
+💻 GitHub: https://github.com/srkwon  <br>
 
 ---
 
