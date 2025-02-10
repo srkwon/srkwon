@@ -18,11 +18,12 @@
 ---
 
 ## 🛠 Tech Stack
-🔹 **Big Data & AI**: Spark, Hadoop, PyTorch, TensorFlow etc.
-🔹 **Backend**: Java, Kotlin, Scala, Spring Boot etc.
-🔹 **Frontend**: HTML, JavaScript, JSP, Thymeleaf etc.
-🔹 **Database**: Apache Druid, Kafka, Oracle, MySQL, Redis etc.
-🔹 **Cloud & DevOps**: AWS (Lightsail, S3, Lambda), Kubernetes, Docker etc.
+🔹 **Big Data & AI**: Spark, Hadoop, TensorFlow, PyTorch etc. <br>
+🔹 **Backend**: Java, Kotlin, Scala, Spring Boot etc. <br>
+🔹 **Frontend**: HTML, JavaScript, JSP, Thymeleaf etc. <br>
+🔹 **Database**: Apache Druid, Kafka, Oracle, MySQL, Redis etc. <br>
+🔹 **Cloud & DevOps**: AWS (Lightsail, S3, Lambda), Kubernetes, Docker etc. <br>
+
 ---
 
 ## 📌 My Work & Interests
@@ -35,17 +36,17 @@
 ## 📂 Projects
 | 프로젝트 | 설명 | 기술 스택 |
 |----------|------|----------|
-| 🏆 **실시간 광고 이벤트 파이프라인, 플랫폼** | 초당 수천만 건의 광고 이벤트를 처리하는 플랫폼 | Kotlin, Spring Boot, Kafka, Redis, Kubernetes |
-| 🚦 **광고 소재 노출 최적화 AI 파이프라인, 플랫폼** | 강화학습 기반 소재 노출 최적화 AI 플랫폼 | TensorFlow, Spring Boot, Java, Kotlin |
-| 🌱 **데이터, 기술 가치 평가 및 컨설팅** | 빅데이터 큐레이션, 데이터, 기술 라이프사이클 관리 | Python, Pandas, numpy, AI |
+| 🏆 **실시간 이벤트 파이프라인, 플랫폼** &nbsp;&nbsp;| 초당 수천만 건의 광고 이벤트를 처리하는 플랫폼 | Kotlin, Spring Boot, Kafka, Redis, Kubernetes |
+| 🚦 **광고 최적화 AI 파이프라인, 플랫폼** &nbsp;&nbsp;| 강화학습 기반 소재 노출 최적화 AI 플랫폼 | TensorFlow, Spring Boot, Java, Kotlin |
+| 🌱 **데이터, 기술 가치 평가 및 컨설팅** &nbsp;&nbsp;| 빅데이터 큐레이션, 데이터 라이프사이클 관리 | Python, Pandas, numpy, AI |
 
 ---
 
 ## 📬 Get in Touch
 📧 Email: sunryul23@naver.com
 🔗 LinkedIn: https://www.linkedin.com/in/srkwon/
-🌐 Blog: [yourblog.com](https://yourblog.com)  
-💻 GitHub: [github.com/사용자명](https://github.com/사용자명)  
+🌐 Notion: https://bit.ly/srkwon
+💻 GitHub: https://github.com/srkwon
 
 ---
 
