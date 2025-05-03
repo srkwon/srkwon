@@ -1,4 +1,4 @@
-# 👋 Kwon Sunryul (PE, IntPE, CTC, Data Curator)
+# Kwon Sunryul (PE, IntPE, CTC, Data Curator)
 
 🚀 **빅데이터 큐레이션, AI, 플랫폼 엔지니어링**  
 📌 **컴퓨터시스템응용기술사 | 정보관리기술사 | 정보공학국제기술사 | 기술지도사**  
